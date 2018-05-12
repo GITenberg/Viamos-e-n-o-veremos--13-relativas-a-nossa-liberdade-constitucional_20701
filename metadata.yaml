@@ -1,0 +1,37 @@
+_repo: Viamos-e-n-o-veremos--13-relativas-a-nossa-liberdade-constitucional_20701
+_version: 0.1.0
+alternative_title: "Víamos e não veremos\r\nalegoria moral, acompanhada de outras\
+  \ diversas máximas relativas à nossa liberdade constitucional"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: This ebook uses 19th century spelling
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2007-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20701'
+language: pt
+production_note: "Produced by Rita Farinha and the Online Distributed\r\nProofreading\
+  \ Team at http://www.pgdp.net (This file was\r\nproduced from images generously\
+  \ made available by National\r\nLibrary of Portugal (Biblioteca Nacional de Portugal).)"
+publication_note: "Lisboa:\r\nImpressão Regia\r\n1820"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Maxims, Portuguese'
+- !lcsh 'Allegories'
+title: "Viamos e não veremos\r\nalegoria moral, acompanhada de outras diversas maximas\
+  \ relativas a nossa liberdade constitucional"
+url: http://www.gutenberg.org/ebooks/20701
